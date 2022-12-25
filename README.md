@@ -12,7 +12,11 @@ This is my project created for Future Ready Talent Internship.
 
 ## Project Demo Video link : https://youtu.be/g7bI-OMefx0
 
-## Screenshots
+## Azure Screenshot
+
+![Azure](https://user-images.githubusercontent.com/73993775/209457604-e5f818d9-b3eb-4ee6-81ee-ada20f0ace16.png)
+
+## Website-Screenshots
 
 ### 1. Home Page
 ![1](https://user-images.githubusercontent.com/73993775/208505878-5530c6a2-159e-4c9e-acab-7d36c0386954.png)
