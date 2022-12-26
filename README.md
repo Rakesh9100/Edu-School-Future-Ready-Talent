@@ -10,7 +10,7 @@ This is my project created for Future Ready Talent Internship.
 
 ## Azure link : https://purple-cliff-099400310.2.azurestaticapps.net/
 
-## Project Demo Video link : https://youtu.be/g7bI-OMefx0
+## Project Demo Video link : https://youtu.be/8JijwzR5uLs
 
 ## Azure Screenshot
 
