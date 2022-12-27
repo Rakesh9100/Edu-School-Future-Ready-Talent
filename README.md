@@ -8,13 +8,13 @@ This is my project created for Future Ready Talent Internship.
 - This project helps both the parents and the students to view the courses and get the support assistance in their homes itself.
 - The courses page is well-designed to attract the students and many courses are there at very less prices so that every student and every child can get the knowledge.
 
-## Azure link : https://purple-cliff-099400310.2.azurestaticapps.net/
+## Azure link : https://green-cliff-0aef9e710.2.azurestaticapps.net/
 
-## Project Demo Video link : https://youtu.be/8JijwzR5uLs
+## Project and Azure Deployment Demo Video link : https://youtu.be/hePWb8v08jk
 
 ## Azure Screenshot
 
-![Azure](https://user-images.githubusercontent.com/73993775/209457604-e5f818d9-b3eb-4ee6-81ee-ada20f0ace16.png)
+![Azure](https://user-images.githubusercontent.com/73993775/209714745-11f32bdd-ebef-4b5b-8f3b-e0791ac13644.png)
 
 ## Website-Screenshots
 
